@@ -14,4 +14,5 @@ namespace CSVFormatterLib
         Timespan,
         Map
     }
+
 }
